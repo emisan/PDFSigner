@@ -9,5 +9,5 @@ Trial for Signing PDF-Documents with SecSigner
   <li>BouncyCastle Provider jdk15on 1.59, get it here: </li>
   <li>BouncyCastle PKI-X jdk15on 1.53, get it here: </li>
   <li>BouncyCastle Mail jdk15on 1.55, get it here: </li>
-  <li>SecSigner.jar, get it here: https://github.com/emisan/PDFSigner/libs</li>
+  <li>SecSigner.jar, get it here: https://github.com/emisan/PDFSigner/lib</li>
 </ul>
